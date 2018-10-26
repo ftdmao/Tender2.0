@@ -38,7 +38,7 @@ export default [
           hideInMenu: true,
           notCache: true
         },
-        component: () => import('@/view/single-page/home')
+        component: () => import('@/view/home/home.vue')
       }
     ]
   },
